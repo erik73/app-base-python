@@ -1,4 +1,4 @@
-# Home Assistant Add-on: Python Base Image
+# Home Assistant App: Python Base Image
 
 [![GitHub Release][releases-shield]][releases]
 ![Project Stage][project-stage-shield]
@@ -14,7 +14,7 @@ Docker Python 3.14 base image.
 
 ## About
 
-Python 3.14 image for addons.
+Python image for apps.
 
 This follows Home Assistant's base images, which made the same move.
 
@@ -64,14 +64,14 @@ SOFTWARE.
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[commits-shield]: https://img.shields.io/github/commit-activity/y/erik73/addon-base-python.svg
-[commits]: https://github.com/erik73/addon-base-python/commits/main
-[contributors]: https://github.com/erik73/addon-base-python/graphs/contributors
-[issue]: https://github.com/erik73/addon-base-python/issues
+[commits-shield]: https://img.shields.io/github/commit-activity/y/erik73/app-base-python.svg
+[commits]: https://github.com/erik73/app-base-python/commits/main
+[contributors]: https://github.com/erik73/app-base-python/graphs/contributors
+[issue]: https://github.com/erik73/app-base-python/issues
 [keepchangelog]: http://keepachangelog.com/en/1.0.0/
 [label-schema]: http://label-schema.org/
-[license-shield]: https://img.shields.io/github/license/erik73/addon-base-python.svg
+[license-shield]: https://img.shields.io/github/license/erik73/app-base-python.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 [project-stage-shield]: https://img.shields.io/badge/Project%20Stage-Production%20Ready-brightgreen.svg
-[releases-shield]: https://img.shields.io/github/release/erik73/addon-base-python.svg
-[releases]: https://github.com/erik73/addon-base-python/releases
+[releases-shield]: https://img.shields.io/github/release/erik73/app-base-python.svg
+[releases]: https://github.com/erik73/app-base-python/releases

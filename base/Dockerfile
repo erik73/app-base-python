@@ -127,15 +127,15 @@ ARG BUILD_REPOSITORY
 
 # Labels
 LABEL \
-    io.hass.name="Addon Python base for ${BUILD_ARCH}" \
-    io.hass.description="Home Assistant Community Add-on: ${BUILD_ARCH} Python base image" \
+    io.hass.name="App Python base for ${BUILD_ARCH}" \
+    io.hass.description="Home Assistant Community App: ${BUILD_ARCH} Python base image" \
     io.hass.arch="${BUILD_ARCH}" \
     io.hass.type="base" \
     io.hass.version=${BUILD_VERSION} \
     maintainer="Erik Hilton <erikhilton73@gmail.com>" \
-    org.opencontainers.image.title="Addon Python base for ${BUILD_ARCH}" \
-    org.opencontainers.image.description="Home Assistant Add-on: ${BUILD_ARCH} Python base image" \
-    org.opencontainers.image.vendor="Erik73 Add-ons" \
+    org.opencontainers.image.title="App Python base for ${BUILD_ARCH}" \
+    org.opencontainers.image.description="Home Assistant App: ${BUILD_ARCH} Python base image" \
+    org.opencontainers.image.vendor="Erik73 Apps" \
     org.opencontainers.image.authors="Erik Hilton <erikhilton73@gmail.com" \
     org.opencontainers.image.licenses="MIT" \
     org.opencontainers.image.url="https://github.com/erik73/hassio-addons" \
