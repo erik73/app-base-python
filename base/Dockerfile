@@ -15,6 +15,7 @@ ARG PYTHON_PIP_VERSION="25.3"
 ARG PYTHON_SETUPTOOLS_VERSION="80.10.2"
 
 # hadolint ignore=DL3003,DL4006,SC2155
+ARG BUILD_ARCH=amd64
 RUN \
     apk add --no-cache --virtual .build-dependencies \
         bzip2-dev=1.0.8-r6 \
