@@ -9,7 +9,7 @@ ENV PATH="/usr/local/bin:$PATH"
 SHELL ["/bin/bash", "-o", "pipefail", "-c"]
 
 # Install base system
-ARG PYTHON_VERSION="v3.14.2"
+ARG PYTHON_VERSION="v3.14.3"
 ARG PYTHON_SHA256="ce543ab854bc256b61b71e9b27f831ffd1bfd60a479d639f8be7f9757cf573e9"
 ARG PYTHON_PIP_VERSION="26.0"
 ARG PYTHON_SETUPTOOLS_VERSION="80.10.2"
