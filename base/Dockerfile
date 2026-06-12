@@ -37,7 +37,7 @@ RUN \
         readline-dev=8.3.3-r1 \
         sqlite-dev=3.51.2-r0 \
         tar=1.35-r5 \
-        tcl-dev=8.6.17-r0 \
+        tcl-dev=8.6.17-r1 \
         tk-dev=8.6.17-r0 \
         tk=8.6.17-r1 \
         util-linux-dev=2.41.4-r0 \
