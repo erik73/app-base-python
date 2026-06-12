@@ -29,7 +29,7 @@ RUN \
         libnsl-dev=2.0.1-r1 \
         libtirpc-dev=1.3.5-r1 \
         linux-headers=6.16.12-r0 \
-        make=4.4.1-r3 \
+        make=4.4.1-r4 \
         musl-dev=1.2.5-r23 \
         ncurses-dev=6.5_p20251123-r0 \
         openssl-dev=3.5.6-r0 \
