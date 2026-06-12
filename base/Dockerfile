@@ -25,7 +25,7 @@ RUN \
         findutils=4.10.0-r1 \
         gcc=15.2.0-r5 \
         gdbm-dev=1.26-r0 \
-        libffi-dev=3.5.2-r0 \
+        libffi-dev=3.5.2-r1 \
         libnsl-dev=2.0.1-r1 \
         libtirpc-dev=1.3.5-r1 \
         linux-headers=6.16.12-r0 \
