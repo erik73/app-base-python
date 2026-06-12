@@ -39,7 +39,7 @@ RUN \
         tar=1.35-r5 \
         tcl-dev=8.6.17-r0 \
         tk-dev=8.6.17-r0 \
-        tk=8.6.17-r0 \
+        tk=8.6.17-r1 \
         util-linux-dev=2.41.4-r0 \
         xz-dev=5.8.3-r0 \
         xz=5.8.3-r0 \
