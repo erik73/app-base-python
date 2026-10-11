@@ -10,7 +10,7 @@ SHELL ["/bin/bash", "-o", "pipefail", "-c"]
 
 # Install base system
 ARG PYTHON_VERSION="v3.14.8"
-ARG PYTHON_SHA256="a65b20a728f169f4e66ae143f40b1bd3d33c38d770251663f627c9767b79b210"
+ARG PYTHON_SHA256="c2215904f02b175596dc49351585104f4bc20341e1c47378b26a2c274360ce73"
 ARG PYTHON_PIP_VERSION="26.2.1"
 ARG PYTHON_SETUPTOOLS_VERSION="84.0.0"
 
@@ -43,7 +43,7 @@ RUN \
         util-linux-dev=2.42.3-r1 \
         xz-dev=5.8.4-r0 \
         xz=5.8.4-r0 \
-        zlib-dev=1.3.2-r0 \
+        zlib-dev=1.3.2-r1 \
         zstd-dev=1.5.7-r2 \
     \
     && curl -J -L -o /tmp/python.tar.xz \
